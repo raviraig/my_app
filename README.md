@@ -59,3 +59,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Super Admin User Credentials
+
+gmail = user02@mailinator.com
+password = Ravi@123
+
+
+For otp open this link https://www.mailinator.com/v4/public/inboxes.jsp?msgid=user014-1622025183-816451&to=user02#
+
+
+
+
